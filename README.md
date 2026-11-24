@@ -26,13 +26,10 @@ This repository is a collection of my Python practice programs, coding exercises
 - Loops
 - Basic Problem Solving
 
-## 🚀 Projects and Practice Programs
-1. Simple Calculator
-2. Even or Odd Number Checker
-3. String Operations
-4. List Operations
-5. Number Guessing Game
-6. Basic Python Exercises
+## 🚀 Projects and Practice Program
+ List Operations
+ Number Guessing Game
+ Basic Python Exercises
 
 ## 🎯 My Goals
 - Strengthen my Python fundamentals.
